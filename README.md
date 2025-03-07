@@ -1,7 +1,7 @@
 # Hello 👋
 
 ## Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:syh754200@g.skku.edu)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:shinefilm1@gmail.com)
 
 
 ## SKILLS
